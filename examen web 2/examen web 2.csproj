@@ -67,14 +67,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="estilos.css" />
     <Content Include="flexslider.css" />
+    <Content Include="fonts 2\fontello.svg" />
     <Content Include="fonts\flexslider-icon.svg" />
+    <Content Include="Contactanos.html" />
     <Content Include="imagenes\1.jpg" />
     <Content Include="imagenes\2.jpg" />
     <Content Include="imagenes\3.jpg" />
+    <Content Include="imagenes\descarga %281%29.jpg" />
+    <Content Include="imagenes\descarga %282%29.jpg" />
+    <Content Include="imagenes\descarga.jpg" />
     <Content Include="index.html" />
     <Content Include="js\jquery.flexslider-min.js" />
     <Content Include="js\jquery.flexslider.js" />
+    <Content Include="Nosotros.html" />
+    <Content Include="Noticias.html" />
+    <Content Include="Servicios.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -84,6 +93,10 @@
     <Content Include="fonts\flexslider-icon.eot" />
     <Content Include="fonts\flexslider-icon.ttf" />
     <Content Include="fonts\flexslider-icon.woff" />
+    <Content Include="fonts 2\fontello.eot" />
+    <Content Include="fonts 2\fontello.ttf" />
+    <Content Include="fonts 2\fontello.woff" />
+    <Content Include="fonts 2\fontello.woff2" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\yazminvasquez - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
